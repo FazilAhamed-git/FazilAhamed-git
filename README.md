@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm fazil</h1>
-<h3 align="center">A final year student passionate about software development</h3>
+<h3 align="center">Aspiring Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazilahamed-git&label=Profile%20views&color=0e75b6&style=flat" alt="fazilahamed-git" /> </p>
 
-- 🔭 I’m currently pursuing **BCA**
+- 🔭 2026 **BCA**
 
 - 🌱 I’m currently learning **java full stack**
 
